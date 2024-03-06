@@ -1,0 +1,8 @@
+.pytest_cache/
+env/
+tests/.pytest_cache
+.idea/
+source/__pycache__
+tests/__pycache__
+
+
